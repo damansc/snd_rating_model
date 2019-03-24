@@ -16,4 +16,4 @@ The current v1 methodology uploaded removes players who played under 300 rounds 
   
 Additional analysis and modification will be undergone to create a more informed model for v2.
 
-See: Player_Rating_Calc.ipynb for methodology implementation.
+See Player_Rating_Calc.ipynb for methodology implementation.
