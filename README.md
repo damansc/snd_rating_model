@@ -15,3 +15,5 @@ Current Methodology: The average per round value for kills, non traded kills, fi
 The current v1 methodology uploaded removes players who played under 300 rounds of snd during ww2. This can be easily modified with the "threshold_knob" object for different analyses. 
   
 Additional analysis and modification will be undergone to create a more informed model for v2.
+
+See: Player_Rating_Calc.ipynb for methodology implementation.
