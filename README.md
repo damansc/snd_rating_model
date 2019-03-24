@@ -17,3 +17,5 @@ The current v1 methodology uploaded removes players who played under 300 rounds 
 Additional analysis and modification will be undergone to create a more informed model for v2.
 
 See Player_Rating_Calc.ipynb for methodology implementation.
+
+Additional work in repository to look into adjusting ratings based on players role (derived from most used weapon). It looks to be that certain roles can cause certain statistics to inflict bias on a players rating.
